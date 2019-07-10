@@ -1,0 +1,46 @@
+body {
+  background-color: Pink;
+  border: 10px solid black;
+  /* opacity: 0.6;
+  filter: alpha(opacity+60); */
+  font-family: 'arial nlack, gadget', sans-serif;
+  margin: 40px, 50px, 40px, 50px;
+}
+
+body {
+  background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/4KW45x0Ue/big-paradise-apple-trees-pink-flowers-blossom-moving-on-sky-background_rmgxe-rll__F0000.png");
+  background-repeat: repeat;
+  background-size: auto
+}
+
+h4 {
+  background-color: palevioletred;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  size: 70px
+}
+
+h3 {
+  background-color: palevioletred;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  size: 60px
+}
+
+p {
+  background-color: pink;
+}
+
+div {
+  background-color:Pink ;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px
+}
+
+p {
+  border-style: double;
+  border-color: white;
+  border-width: 5px
+}
